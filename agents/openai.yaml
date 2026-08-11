@@ -1,0 +1,4 @@
+interface:
+  display_name: "Omada OpenAPI"
+  short_description: "Operate this Omada controller via OpenAPI"
+  default_prompt: "Use $omada-openapi to inspect and manage the Omada controller safely."
